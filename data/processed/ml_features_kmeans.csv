@@ -1,0 +1,133 @@
+scheme_code,scheme_name,category,fund_house,tier1_benchmark,cagr_5y_pct,annualized_volatility_pct,downside_deviation_rf_pct,max_drawdown_pct,daily_var_95_pct,daily_cvar_95_pct,sharpe_ratio,sortino_ratio,calmar_ratio,skewness,kurtosis,beta_nifty500,tracking_error_nifty500_pct,win_rate_pct
+118479,BANDHAN LARGE CAP FUND,Large Cap Fund,Bandhan Mutual Fund,NIFTY 100 TRI,8.99,13.96,10.17,-19.42,1.48,2.1,0.179,0.245,0.463,-0.338,2.34,0.939,3.43,54.35
+119250,DSP Large Cap Fund,Large Cap Fund,DSP Mutual Fund,NIFTY 100 TRI,8.53,12.79,9.32,-18.78,1.25,1.87,0.159,0.218,0.454,-0.436,3.338,0.843,4.58,54.1
+118617,Edelweiss Large Cap Fund,Large Cap Fund,Edelweiss Mutual Fund,NIFTY 100 TRI,8.65,13.46,9.89,-17.26,1.4,2.03,0.16,0.218,0.501,-0.556,4.406,0.916,2.8,52.48
+118531,Franklin India Large Cap Fund,Large Cap Fund,Franklin Templeton Mutual Fund,NIFTY 100 TRI,6.51,13.31,9.73,-18.36,1.39,2.0,0.001,0.001,0.355,-0.332,2.815,0.882,4.28,53.86
+119018,HDFC Large Cap Fund,Large Cap Fund,HDFC Mutual Fund,NIFTY 100 TRI,8.71,13.62,9.98,-16.36,1.34,2.02,0.162,0.222,0.532,-0.615,5.548,0.916,3.5,53.94
+120586,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund),Large Cap Fund,ICICI Prudential Mutual Fund,NIFTY 100 TRI,9.51,12.81,9.3,-15.39,1.31,1.87,0.235,0.324,0.618,-0.47,4.084,0.861,3.66,53.05
+120152,Kotak Large Cap Fund,Large Cap Fund,Kotak Mahindra Mutual Fund,NIFTY 100 TRI,7.69,13.54,9.97,-17.35,1.38,2.04,0.088,0.12,0.443,-0.508,3.826,0.921,2.81,54.43
+118632,Nippon India Large Cap Fund,Large Cap Fund,Nippon India Mutual Fund,NIFTY 100 TRI,11.27,14.04,10.27,-15.37,1.43,2.13,0.34,0.465,0.734,-0.614,4.577,0.952,2.89,54.18
+119598,SBI Large Cap Fund,Large Cap Fund,SBI Mutual Fund,NIFTY 100 TRI,7.59,13.03,9.52,-16.38,1.31,1.97,0.084,0.115,0.463,-0.395,3.099,0.875,3.55,52.72
+119160,Tata Large Cap Fund,Large Cap Fund,Tata Mutual Fund,NIFTY 100 TRI,7.9,13.81,10.25,-17.07,1.4,2.1,0.102,0.137,0.463,-0.67,5.343,0.938,2.89,54.02
+120656,UTI - Large Cap Fund,Large Cap Fund,UTI Mutual Fund,NIFTY 100 TRI,5.53,13.07,9.59,-19.22,1.35,1.95,-0.074,-0.101,0.288,-0.352,3.058,0.875,3.81,54.02
+120465,Axis Large Cap Fund,Large Cap Fund,Axis Mutual Fund,NIFTY 100 TRI,4.47,13.23,9.74,-21.57,1.4,1.99,-0.153,-0.208,0.207,-0.348,2.931,0.874,4.39,52.56
+118269,Canara Robeco Large Cap Fund,Large Cap Fund,Canara Robeco Mutual Fund,NIFTY 100 TRI,7.65,13.36,9.78,-17.34,1.36,2.0,0.086,0.118,0.441,-0.468,3.967,0.903,3.23,53.45
+120030,HSBC Large Cap Fund,Large Cap Fund,HSBC Mutual Fund,NIFTY 100 TRI,7.71,14.49,10.7,-19.27,1.49,2.19,0.083,0.113,0.4,-0.607,5.013,0.977,3.3,54.26
+118419,Bandhan Large & Mid Cap Fund,Large & Mid Cap Fund,Bandhan Mutual Fund,NIFTY LargeMidcap 250 TRI,14.61,14.54,10.84,-18.27,1.53,2.29,0.558,0.748,0.8,-0.835,4.391,0.978,3.42,57.35
+148474,Baroda BNP Paribas Large and Mid Cap fund,Large & Mid Cap Fund,Baroda BNP Paribas Mutual Fund,NIFTY LargeMidcap 250 TRI,9.85,14.88,11.18,-20.61,1.66,2.34,0.225,0.299,0.478,-0.803,4.682,0.988,4.25,56.05
+119218,DSP Large & Mid Cap Fund,Large & Mid Cap Fund,DSP Mutual Fund,NIFTY LargeMidcap 250 TRI,10.37,14.02,10.48,-19.49,1.43,2.17,0.276,0.369,0.532,-0.784,5.105,0.94,3.59,56.05
+140175,Edelweiss Large & Mid Cap Fund,Large & Mid Cap Fund,Edelweiss Mutual Fund,NIFTY LargeMidcap 250 TRI,11.09,14.83,11.01,-18.17,1.52,2.33,0.31,0.417,0.61,-0.667,3.99,0.998,3.41,56.62
+118510,Franklin India Large & Mid Cap Fund,Large & Mid Cap Fund,Franklin Templeton Mutual Fund,NIFTY LargeMidcap 250 TRI,7.04,14.3,10.66,-19.53,1.53,2.25,0.038,0.051,0.361,-0.535,2.988,0.946,4.35,54.6
+120596,ICICI Prudential Large & Mid Cap Fund,Large & Mid Cap Fund,ICICI Prudential Mutual Fund,NIFTY LargeMidcap 250 TRI,12.39,13.38,9.86,-14.76,1.36,2.09,0.44,0.598,0.839,-0.6,3.433,0.892,3.91,55.89
+147704,Motilal Oswal Large and Midcap Fund,Large & Mid Cap Fund,Motilal Oswal Mutual Fund,NIFTY LargeMidcap 250 TRI,17.38,17.67,13.03,-26.06,1.9,2.78,0.616,0.835,0.667,-0.644,3.159,1.065,8.74,58.0
+118678,Nippon India Vision Large & Mid Cap Fund,Large & Mid Cap Fund,Nippon India Mutual Fund,NIFTY LargeMidcap 250 TRI,10.69,14.73,10.98,-19.07,1.59,2.31,0.285,0.382,0.561,-0.679,4.036,0.996,3.12,56.13
+120826,Quant Large & Mid Cap Fund,Large & Mid Cap Fund,quant Mutual Fund,NIFTY LargeMidcap 250 TRI,13.39,17.06,12.69,-24.13,1.78,2.65,0.404,0.543,0.555,-0.795,4.411,1.069,7.25,55.81
+119721,SBI LARGE & MIDCAP FUND,Large & Mid Cap Fund,SBI Mutual Fund,NIFTY LargeMidcap 250 TRI,11.36,12.94,9.64,-16.38,1.38,2.05,0.375,0.504,0.693,-0.698,4.333,0.866,3.9,56.56
+119566,Sundaram Large and Midcap Fund,Large & Mid Cap Fund,Sundaram Mutual Fund,NIFTY LargeMidcap 250 TRI,9.92,14.88,11.1,-20.28,1.53,2.34,0.23,0.308,0.489,-0.686,4.519,0.998,3.74,56.79
+119202,Tata Large & Mid Cap Fund,Large & Mid Cap Fund,Tata Mutual Fund,NIFTY LargeMidcap 250 TRI,7.96,13.84,10.33,-21.72,1.47,2.16,0.106,0.142,0.367,-0.644,4.468,0.921,3.96,55.65
+120505,Axis Midcap Fund,Mid Cap Fund,Axis Mutual Fund,NIFTY Midcap 150 TRI,10.93,14.59,10.89,-20.34,1.57,2.31,0.304,0.407,0.537,-0.645,3.017,0.93,5.84,57.03
+119071,DSP Midcap Fund,Mid Cap Fund,DSP Mutual Fund,NIFTY Midcap 150 TRI,9.36,15.16,11.39,-22.46,1.72,2.42,0.189,0.251,0.417,-0.646,2.737,0.962,6.1,55.89
+140228,Edelweiss Mid Cap Fund,Mid Cap Fund,Edelweiss Mutual Fund,NIFTY Midcap 150 TRI,15.59,16.37,12.23,-20.06,1.73,2.59,0.555,0.743,0.777,-0.793,3.819,1.038,6.61,57.19
+118533,Franklin India Mid Cap Fund,Mid Cap Fund,Franklin Templeton Mutual Fund,NIFTY Midcap 150 TRI,11.13,15.48,11.64,-23.88,1.8,2.48,0.299,0.397,0.466,-0.69,3.031,1.001,5.54,57.6
+118989,HDFC Mid Cap Fund,Mid Cap Fund,HDFC Mutual Fund,NIFTY Midcap 150 TRI,16.23,15.14,11.29,-16.96,1.69,2.4,0.643,0.862,0.957,-0.785,3.696,0.962,6.01,58.16
+118668,Nippon India Growth Mid Cap Fund,Mid Cap Fund,Nippon India Mutual Fund,NIFTY Midcap 150 TRI,15.28,16.22,12.16,-19.87,1.77,2.63,0.541,0.722,0.769,-0.8,4.138,1.045,5.98,57.11
+120841,Quant Mid Cap Fund,Mid Cap Fund,quant Mutual Fund,NIFTY Midcap 150 TRI,13.57,17.56,13.12,-25.95,1.91,2.75,0.403,0.539,0.523,-0.876,5.043,1.059,8.57,56.05
+119716,SBI MIDCAP FUND,Mid Cap Fund,SBI Mutual Fund,NIFTY Midcap 150 TRI,11.18,13.88,10.44,-17.88,1.64,2.27,0.337,0.448,0.625,-0.719,2.552,0.848,6.85,56.3
+119581,Sundaram Mid Cap Fund,Mid Cap Fund,Sundaram Mutual Fund,NIFTY Midcap 150 TRI,14.37,15.7,11.73,-20.69,1.75,2.52,0.501,0.671,0.695,-0.742,3.212,1.008,5.85,57.04
+119178,Tata Mid Cap Fund,Mid Cap Fund,Tata Mutual Fund,NIFTY Midcap 150 TRI,12.22,15.51,11.77,-21.22,1.74,2.5,0.369,0.486,0.576,-0.909,4.663,0.991,5.94,57.84
+120726,UTI - Mid Cap Fund,Mid Cap Fund,UTI Mutual Fund,NIFTY Midcap 150 TRI,9.99,15.17,11.42,-22.66,1.75,2.46,0.23,0.306,0.441,-0.665,2.569,0.965,6.0,57.51
+120381,ICICI Prudential Mid Cap Fund,Mid Cap Fund,ICICI Prudential Mutual Fund,NIFTY Midcap 150 TRI,14.55,16.8,12.53,-21.27,1.84,2.68,0.479,0.642,0.684,-0.699,3.174,1.063,6.91,56.62
+120403,Invesco India Mid Cap Fund,Mid Cap Fund,Invesco Mutual Fund,NIFTY Midcap 150 TRI,16.57,16.28,11.87,-20.07,1.76,2.52,0.618,0.848,0.826,-0.488,2.992,1.018,7.04,57.03
+119775,Kotak Mid Cap Fund,Mid Cap Fund,Kotak Mahindra Mutual Fund,NIFTY Midcap 150 TRI,13.91,15.17,11.31,-20.87,1.66,2.4,0.488,0.655,0.667,-0.748,3.587,0.958,6.27,57.43
+147946,BANDHAN Small Cap Fund,Small Cap Fund,Bandhan Mutual Fund,NIFTY Smallcap 250 TRI,17.87,16.72,12.55,-24.34,1.88,2.74,0.68,0.906,0.734,-0.805,3.166,1.0,8.31,58.9
+119212,DSP Small Cap Fund,Small Cap Fund,DSP Mutual Fund,NIFTY Smallcap 250 TRI,15.87,16.22,12.14,-24.14,1.82,2.62,0.578,0.772,0.657,-0.727,2.438,0.92,9.29,57.84
+146196,Edelweiss Small Cap Fund,Small Cap Fund,Edelweiss Mutual Fund,NIFTY Smallcap 250 TRI,14.59,15.84,11.87,-22.86,1.74,2.56,0.511,0.682,0.638,-0.707,2.548,0.954,7.85,58.98
+118525,Franklin India Small Cap Fund,Small Cap Fund,Franklin Templeton Mutual Fund,NIFTY Smallcap 250 TRI,13.65,15.93,12.03,-24.12,1.75,2.6,0.449,0.594,0.566,-0.807,3.182,0.961,7.76,57.92
+130503,HDFC Small Cap Fund,Small Cap Fund,HDFC Mutual Fund,NIFTY Smallcap 250 TRI,12.68,16.07,12.06,-22.61,1.79,2.58,0.385,0.513,0.561,-0.693,2.56,0.945,8.37,59.06
+120164,Kotak Small Cap Fund,Small Cap Fund,Kotak Mahindra Mutual Fund,NIFTY Smallcap 250 TRI,10.56,14.45,10.96,-24.67,1.61,2.36,0.281,0.371,0.428,-0.771,2.895,0.852,7.84,57.27
+118778,Nippon India Small Cap Fund,Small Cap Fund,Nippon India Mutual Fund,NIFTY Smallcap 250 TRI,16.6,16.46,12.48,-24.21,1.85,2.68,0.614,0.81,0.686,-0.907,3.648,1.01,7.58,60.03
+120828,Quant Small Cap Fund,Small Cap Fund,quant Mutual Fund,NIFTY Smallcap 250 TRI,16.65,18.88,14.29,-25.17,2.05,3.06,0.538,0.711,0.662,-0.933,4.634,1.118,9.71,59.06
+125497,SBI SMALL CAP FUND,Small Cap Fund,SBI Mutual Fund,NIFTY Smallcap 250 TRI,11.81,13.79,10.3,-22.42,1.54,2.22,0.385,0.515,0.527,-0.666,2.96,0.791,8.22,57.03
+119589,Sundaram Small Cap Fund,Small Cap Fund,Sundaram Mutual Fund,NIFTY Smallcap 250 TRI,14.3,15.93,11.85,-23.77,1.84,2.54,0.49,0.658,0.602,-0.616,2.861,0.957,7.79,58.1
+119588,Sundaram Small Cap Fund,Small Cap Fund,Sundaram Mutual Fund,NIFTY Smallcap 250 TRI,6.52,17.35,13.7,-29.18,1.92,2.93,0.001,0.002,0.224,-1.434,7.777,0.951,10.53,57.77
+145206,Tata Small Cap Fund,Small Cap Fund,Tata Mutual Fund,NIFTY Smallcap 250 TRI,13.55,16.45,12.32,-30.9,1.87,2.68,0.428,0.572,0.438,-0.69,2.971,0.916,9.68,58.25
+125354,Axis Small Cap Fund,Small Cap Fund,Axis Mutual Fund,NIFTY Smallcap 250 TRI,14.1,14.29,10.66,-19.43,1.54,2.26,0.532,0.712,0.726,-0.666,2.552,0.856,7.44,57.51
+146130,Canara Robeco Small Cap Fund,Small Cap Fund,Canara Robeco Mutual Fund,NIFTY Smallcap 250 TRI,12.02,15.89,12.01,-23.61,1.8,2.56,0.347,0.459,0.509,-0.802,3.5,0.969,7.52,56.62
+118424,BANDHAN Flexi Cap Fund,Flexi Cap Fund,Bandhan Mutual Fund,NIFTY 500 TRI,8.3,13.41,9.91,-20.58,1.36,2.03,0.134,0.182,0.404,-0.601,4.799,0.902,3.51,54.91
+119076,DSP Flexi Cap Fund,Flexi Cap Fund,DSP Mutual Fund,NIFTY 500 TRI,8.12,14.23,10.59,-22.85,1.51,2.2,0.114,0.153,0.356,-0.627,4.438,0.945,4.06,54.67
+140353,Edelweiss Flexi Cap Fund,Flexi Cap Fund,Edelweiss Mutual Fund,NIFTY 500 TRI,11.02,14.45,10.67,-19.03,1.45,2.21,0.313,0.423,0.579,-0.724,5.517,0.981,2.79,55.48
+118535,Franklin India Flexi Cap Fund,Flexi Cap Fund,Franklin Templeton Mutual Fund,NIFTY 500 TRI,9.55,13.78,10.21,-17.65,1.52,2.12,0.221,0.299,0.541,-0.645,4.437,0.933,3.04,55.24
+118955,HDFC Flexi Cap Fund,Flexi Cap Fund,HDFC Mutual Fund,NIFTY 500 TRI,14.46,12.81,9.3,-13.32,1.2,1.93,0.621,0.856,1.085,-0.565,3.928,0.846,4.45,56.78
+129046,Motilal Oswal Flexi Cap Fund,Flexi Cap Fund,Motilal Oswal Mutual Fund,NIFTY 500 TRI,11.84,16.15,11.78,-21.55,1.68,2.42,0.331,0.454,0.55,-0.486,2.433,0.988,7.59,54.18
+122639,Parag Parikh Flexi Cap Fund,Flexi Cap Fund,PPFAS Mutual Fund,NIFTY 500 TRI,10.52,11.47,8.28,-17.87,1.19,1.66,0.351,0.486,0.589,-0.375,3.06,0.671,7.79,56.06
+120843,Quant Flexi Cap Fund,Flexi Cap Fund,quant Mutual Fund,NIFTY 500 TRI,12.54,17.08,12.78,-24.71,1.83,2.7,0.353,0.472,0.507,-0.712,3.525,1.073,7.18,56.7
+119718,SBI FLEXICAP FUND,Flexi Cap Fund,SBI Mutual Fund,NIFTY 500 TRI,6.46,12.7,9.47,-16.6,1.29,1.96,-0.003,-0.004,0.389,-0.619,4.221,0.854,3.69,55.5
+144546,Tata Flexi Cap Fund,Flexi Cap Fund,Tata Mutual Fund,NIFTY 500 TRI,7.36,13.16,9.88,-18.08,1.49,2.06,0.065,0.087,0.407,-0.635,3.279,0.881,3.71,54.83
+120662,UTI - Flexi Cap Fund.,Flexi Cap Fund,UTI Mutual Fund,NIFTY 500 TRI,3.19,13.53,10.03,-25.55,1.46,2.07,-0.245,-0.33,0.125,-0.337,2.25,0.862,5.61,53.61
+141925,Axis Flexi Cap Fund,Flexi Cap Fund,Axis Mutual Fund,NIFTY 500 TRI,7.1,14.16,10.61,-22.7,1.49,2.21,0.042,0.057,0.313,-0.655,4.176,0.934,4.42,55.08
+118275,Canara Robeco Flexi Cap Fund,Flexi Cap Fund,Canara Robeco Mutual Fund,NIFTY 500 TRI,7.97,13.65,10.07,-18.95,1.41,2.09,0.108,0.146,0.42,-0.51,3.886,0.929,2.69,54.75
+120046,HSBC Flexi Cap Fund,Flexi Cap Fund,HSBC Mutual Fund,NIFTY 500 TRI,11.34,15.56,11.56,-22.67,1.61,2.45,0.311,0.419,0.5,-0.67,4.134,1.047,3.7,56.05
+119354,Baroda BNP Paribas Multi Cap Fund,Multi Cap Fund,Baroda BNP Paribas Mutual Fund,NIFTY 500 Multicap 50:25:25 TRI,9.86,15.01,11.38,-21.45,1.62,2.41,0.224,0.295,0.46,-0.883,4.861,0.99,4.63,57.76
+120823,Quant Multi Cap Fund,Multi Cap Fund,quant Mutual Fund,NIFTY 500 Multicap 50:25:25 TRI,9.3,17.51,13.32,-25.3,1.97,2.82,0.16,0.21,0.367,-0.854,4.256,1.095,7.52,56.78
+120599,ICICI Prudential Multi Cap Fund,Multi Cap Fund,ICICI Prudential Mutual Fund,NIFTY 500 Multicap 50:25:25 TRI,12.51,13.79,10.18,-17.25,1.5,2.19,0.436,0.59,0.725,-0.545,3.012,0.914,4.14,57.11
+120413,Invesco India Multi Cap Fund,Multi Cap Fund,Invesco Mutual Fund,NIFTY 500 Multicap 50:25:25 TRI,10.25,15.27,11.38,-22.59,1.65,2.41,0.246,0.33,0.454,-0.628,3.695,0.99,5.31,56.05
+118650,Nippon India Multi Cap Fund,Multi Cap Fund,Nippon India Mutual Fund,NIFTY 500 Multicap 50:25:25 TRI,14.51,14.64,10.89,-18.58,1.56,2.32,0.547,0.736,0.781,-0.798,4.399,0.97,4.24,57.03
+147183,ITI Multi Cap Fund,Multi Cap Fund,ITI Mutual Fund,NIFTY 500 Multicap 50:25:25 TRI,12.68,15.49,11.74,-23.09,1.69,2.46,0.399,0.527,0.549,-0.944,5.52,1.007,5.29,58.67
+141226,Mahindra Manulife Multi Cap Fund,Multi Cap Fund,Mahindra Manulife Mutual Fund,NIFTY 500 Multicap 50:25:25 TRI,13.3,16.47,12.51,-20.56,1.77,2.63,0.413,0.544,0.647,-1.141,7.811,1.072,5.71,57.11
+118421,Bandhan Focused Fund,Focused Fund,Bandhan Mutual Fund,NIFTY 500 TRI,10.97,14.94,10.77,-20.24,1.58,2.22,0.299,0.415,0.542,-0.275,2.359,0.966,5.34,55.16
+119096,DSP Focused Fund,Focused Fund,DSP Mutual Fund,NIFTY 500 TRI,9.94,14.07,10.34,-20.67,1.44,2.09,0.244,0.333,0.481,-0.532,3.622,0.914,5.05,56.38
+118564,Franklin India Focused Equity Fund,Focused Fund,Franklin Templeton Mutual Fund,NIFTY 500 TRI,8.06,13.44,9.97,-17.85,1.35,2.06,0.116,0.157,0.452,-0.571,3.526,0.889,4.28,53.7
+118950,HDFC Focused Fund,Focused Fund,HDFC Mutual Fund,NIFTY 500 TRI,15.5,12.34,8.87,-13.98,1.27,1.85,0.73,1.015,1.109,-0.48,3.586,0.804,5.07,56.78
+147473,Kotak Focused Fund,Focused Fund,Kotak Mahindra Mutual Fund,NIFTY 500 TRI,10.27,14.12,10.38,-18.37,1.44,2.13,0.267,0.364,0.559,-0.584,4.05,0.947,3.54,55.32
+122389,Motilal Oswal Focused Fund,Focused Fund,Motilal Oswal Mutual Fund,NIFTY 500 TRI,10.25,15.89,11.75,-31.25,1.72,2.44,0.236,0.319,0.328,-0.535,2.337,0.975,7.4,54.75
+118692,Nippon India Focused Fund,Focused Fund,Nippon India Mutual Fund,NIFTY 500 TRI,8.5,14.08,10.39,-17.58,1.45,2.16,0.142,0.192,0.483,-0.466,3.082,0.926,4.53,55.32
+120834,Quant Focused Fund,Focused Fund,quant Mutual Fund,NIFTY 500 TRI,11.42,16.82,12.34,-24.02,1.75,2.59,0.292,0.399,0.475,-0.422,3.021,1.057,7.1,56.21
+119727,SBI FOCUSED FUND,Focused Fund,SBI Mutual Fund,NIFTY 500 TRI,10.31,12.14,8.88,-22.46,1.27,1.83,0.314,0.429,0.459,-0.472,2.801,0.747,6.65,54.85
+147757,Tata Focused Fund,Focused Fund,Tata Mutual Fund,NIFTY 500 TRI,8.4,14.5,10.74,-19.6,1.56,2.23,0.131,0.177,0.429,-0.63,4.806,0.969,3.81,53.61
+120468,Axis Focused Fund,Focused Fund,Axis Mutual Fund,NIFTY 500 TRI,2.23,14.47,10.81,-28.0,1.55,2.22,-0.295,-0.395,0.079,-0.392,2.423,0.925,5.69,53.13
+148411,HSBC Focused Fund,Focused Fund,HSBC Mutual Fund,NIFTY 500 TRI,10.15,15.66,11.53,-21.21,1.65,2.4,0.233,0.316,0.478,-0.503,3.157,1.028,4.91,55.89
+118540,Franklin India ELSS Tax Saver Fund,ELSS,Franklin Templeton Mutual Fund,NIFTY 500 TRI,9.17,13.89,10.29,-18.17,1.51,2.13,0.192,0.259,0.505,-0.642,4.387,0.939,3.1,55.4
+119773,Kotak ELSS Tax Saver Fund,ELSS,Kotak Mahindra Mutual Fund,NIFTY 500 TRI,10.45,14.27,10.68,-19.57,1.47,2.23,0.277,0.37,0.534,-0.844,5.87,0.965,3.16,55.65
+133386,Motilal Oswal ELSS Tax Saver Fund,ELSS,Motilal Oswal Mutual Fund,NIFTY 500 TRI,15.87,17.62,13.01,-27.71,1.86,2.74,0.532,0.72,0.573,-0.641,3.161,1.053,8.94,57.51
+147481,Parag Parikh ELSS Tax Saver Fund,ELSS,PPFAS Mutual Fund,NIFTY 500 TRI,9.41,11.47,8.38,-14.75,1.15,1.71,0.253,0.347,0.638,-0.467,2.975,0.731,5.93,54.75
+120847,Quant ELSS Tax Saver Fund,ELSS,quant Mutual Fund,NIFTY 500 TRI,12.85,17.43,13.05,-25.84,1.85,2.78,0.364,0.487,0.497,-0.788,4.347,1.104,7.17,56.38
+119723,SBI ELSS Tax Saver Fund,ELSS,SBI Mutual Fund,NIFTY 500 TRI,12.88,13.45,9.99,-16.67,1.37,2.1,0.474,0.638,0.773,-0.771,4.359,0.905,3.49,56.62
+120715,UTI ELSS Tax Saver Fund,ELSS,UTI Mutual Fund,NIFTY 500 TRI,6.0,13.42,9.96,-21.28,1.39,2.05,-0.037,-0.05,0.282,-0.43,2.807,0.9,3.64,54.83
+120503,Axis ELSS- Tax Saver Fund,ELSS,Axis Mutual Fund,NIFTY 500 TRI,4.26,14.3,10.67,-27.52,1.57,2.23,-0.157,-0.21,0.155,-0.436,2.491,0.926,5.18,53.61
+118473,BANDHAN ELSS - Tax Saver Fund,ELSS,Bandhan Mutual Fund,NIFTY 500 TRI,9.52,13.67,10.16,-18.35,1.42,2.14,0.221,0.297,0.519,-0.656,4.119,0.918,3.5,54.43
+118285,Canara Robeco ELSS - Tax Saver Fund,ELSS,Canara Robeco Mutual Fund,NIFTY 500 TRI,8.45,13.69,10.19,-18.64,1.41,2.12,0.142,0.191,0.453,-0.648,4.209,0.932,2.65,54.67
+119242,DSP ELSS Tax Saver Fund,ELSS,DSP Mutual Fund,NIFTY 500 TRI,10.43,14.02,10.43,-17.07,1.45,2.15,0.281,0.377,0.611,-0.776,5.683,0.946,3.23,55.08
+118620,Edelweiss ELSS Tax Saver Fund,ELSS,Edelweiss Mutual Fund,NIFTY 500 TRI,10.31,14.39,10.64,-18.52,1.47,2.2,0.265,0.358,0.557,-0.66,4.614,0.979,2.71,54.83
+119060,HDFC ELSS - Tax Saver Fund,ELSS,HDFC Mutual Fund,NIFTY 500 TRI,12.19,12.75,9.24,-14.81,1.23,1.87,0.446,0.615,0.823,-0.494,3.652,0.845,4.36,55.0
+120592,ICICI Prudential ELSS - Tax Saver Fund,ELSS,ICICI Prudential Mutual Fund,NIFTY 500 TRI,8.1,13.06,9.59,-17.62,1.34,1.96,0.123,0.167,0.46,-0.448,2.989,0.874,3.71,54.91
+118481,Bandhan Value Fund,Value Fund,Bandhan Mutual Fund,NIFTY 500 TRI,11.22,13.66,10.17,-18.65,1.47,2.14,0.346,0.464,0.602,-0.706,4.391,0.906,4.13,55.81
+118494,Templeton India Value Fund,Value Fund,Franklin Templeton Mutual Fund,NIFTY 500 TRI,10.65,13.7,10.22,-17.98,1.4,2.12,0.303,0.406,0.592,-0.851,5.81,0.905,4.4,55.98
+118935,HDFC Value Fund,Value Fund,HDFC Mutual Fund,NIFTY 500 TRI,12.11,13.91,10.25,-18.39,1.43,2.13,0.403,0.547,0.658,-0.683,4.748,0.943,2.91,55.24
+120323,ICICI Prudential Value Fund (erstwhile Value Discovery Fund),Value Fund,ICICI Prudential Mutual Fund,NIFTY 500 TRI,12.21,11.59,8.36,-14.03,1.1,1.7,0.493,0.683,0.87,-0.489,3.422,0.758,5.22,54.92
+118784,Nippon India Value Fund,Value Fund,Nippon India Mutual Fund,NIFTY 500 TRI,10.96,15.08,11.28,-18.49,1.59,2.35,0.296,0.396,0.593,-0.848,5.863,1.019,3.35,55.4
+119549,Sundaram Value Fund,Value Fund,Sundaram Mutual Fund,NIFTY 500 TRI,6.22,13.52,10.05,-16.32,1.41,2.1,-0.021,-0.028,0.381,-0.492,3.065,0.91,3.34,54.03
+119231,Tata Value Fund,Value Fund,Tata Mutual Fund,NIFTY 500 TRI,11.36,14.83,11.13,-20.92,1.56,2.28,0.328,0.436,0.543,-0.945,6.939,0.98,4.43,56.62
+120751,UTI Value Fund,Value Fund,UTI Mutual Fund,NIFTY 500 TRI,9.6,13.53,10.01,-17.26,1.41,2.08,0.229,0.31,0.556,-0.567,3.46,0.913,3.3,55.4
+103490,Quantum Value Fund,Value Fund,Quantum Mutual Fund,NIFTY 500 TRI,8.4,12.94,9.41,-16.25,1.29,1.89,0.147,0.202,0.517,-0.425,3.091,0.853,4.49,52.97
+145473,Union Value Fund,Value Fund,Union Mutual Fund,NIFTY 500 TRI,10.36,14.5,10.84,-17.87,1.44,2.25,0.266,0.356,0.58,-0.857,5.866,0.973,3.57,55.0
+119769,Kotak Contra Fund,Contra Fund,Kotak Mahindra Mutual Fund,NIFTY 500 TRI,12.3,14.36,10.68,-18.95,1.51,2.23,0.404,0.543,0.649,-0.792,5.123,0.973,3.03,55.4
+119835,SBI CONTRA FUND,Contra Fund,SBI Mutual Fund,NIFTY 500 TRI,13.03,12.67,9.47,-15.84,1.31,1.99,0.515,0.689,0.823,-0.931,5.754,0.843,4.24,56.56
+120348,Invesco India Contra Fund,Contra Fund,Invesco Mutual Fund,NIFTY 500 TRI,11.16,14.51,10.73,-18.64,1.47,2.21,0.321,0.434,0.598,-0.712,5.134,0.982,3.08,55.4
+118527,Franklin India Dividend Yield Fund,Dividend Yield Fund,Franklin Templeton Mutual Fund,NIFTY Dividend Opportunities 50 TRI,10.06,12.5,9.27,-15.94,1.26,1.9,0.285,0.384,0.631,-0.923,7.808,0.778,6.42,55.49
+129312,ICICI Prudential Dividend Yield Fund,Dividend Yield Fund,ICICI Prudential Mutual Fund,NIFTY Dividend Opportunities 50 TRI,14.05,12.81,9.35,-15.88,1.29,1.91,0.59,0.808,0.885,-0.667,4.481,0.849,4.26,55.16
+120749,UTI - Dividend Yield Fund,Dividend Yield Fund,UTI Mutual Fund,NIFTY Dividend Opportunities 50 TRI,9.13,13.07,9.72,-20.06,1.33,2.02,0.201,0.271,0.455,-0.65,3.985,0.855,4.78,55.97
+119507,Aditya Birla Sun Life Dividend Yield Fund,Dividend Yield Fund,Aditya Birla Sun Life Mutual Fund,NIFTY Dividend Opportunities 50 TRI,11.14,14.63,10.99,-20.73,1.54,2.27,0.317,0.422,0.537,-0.862,4.91,0.936,5.64,55.9
+147928,Axis ESG Integration Strategy Fund,Sectoral/ Thematic,Axis Mutual Fund,NIFTY 500 TRI,4.04,12.84,9.44,-24.3,1.36,1.95,-0.191,-0.26,0.166,-0.271,2.142,0.796,6.45,51.91
+119333,Baroda BNP Paribas Banking and Financial Services Fund,Sectoral/ Thematic,Baroda BNP Paribas Mutual Fund,NIFTY Bank TRI / NIFTY Financial Services TRI,10.05,16.65,12.18,-21.72,1.64,2.5,0.213,0.292,0.463,-0.665,6.887,1.017,7.78,55.0
+142388,Edelweiss Recently Listed IPO Fund,Sectoral/ Thematic,Edelweiss Mutual Fund,NIFTY 500 TRI,9.68,17.4,13.22,-29.72,1.91,2.85,0.183,0.24,0.326,-0.781,2.722,0.971,10.37,57.19
+118559,Franklin Asian Equity Fund,Sectoral/ Thematic,Franklin Templeton Mutual Fund,NIFTY IT TRI,7.12,17.74,12.42,-32.93,1.73,2.4,0.035,0.05,0.216,0.066,3.221,0.671,15.6,52.64
+118557,Franklin Build India Fund,Sectoral/ Thematic,Franklin Templeton Mutual Fund,NIFTY 500 TRI,15.95,15.95,11.97,-20.28,1.64,2.5,0.593,0.789,0.786,-1.198,9.345,1.018,6.18,57.27
+118539,Franklin India Opportunities Fund,Sectoral/ Thematic,Franklin Templeton Mutual Fund,NIFTY IT TRI,15.69,15.27,11.3,-24.33,1.61,2.43,0.602,0.813,0.645,-0.729,3.506,0.977,5.88,57.69
+118537,Franklin India Technology Fund,Sectoral/ Thematic,Franklin Templeton Mutual Fund,BSE TeCK TRI / NIFTY IT TRI,7.2,15.62,10.98,-26.47,1.64,2.23,0.045,0.064,0.272,0.009,1.414,0.748,11.89,52.81
+141924,HDFC Housing Opportunities Fund,Sectoral/ Thematic,HDFC Mutual Fund,NIFTY IT TRI,9.43,16.42,12.34,-23.09,1.68,2.55,0.179,0.238,0.409,-0.976,8.415,1.059,5.97,55.65
+118979,HDFC Infrastructure Fund,Sectoral/ Thematic,HDFC Mutual Fund,NIFTY Infrastructure TRI,16.53,16.61,12.46,-21.28,1.7,2.64,0.604,0.805,0.777,-1.054,6.791,1.024,7.46,58.0
+120244,ICICI Prudential Banking & Financial Services Fund,Sectoral/ Thematic,ICICI Prudential Mutual Fund,NIFTY Bank TRI / NIFTY Financial Services TRI,8.2,14.46,10.47,-20.27,1.37,2.17,0.118,0.163,0.405,-0.369,4.14,0.887,6.9,53.78
+146951,ICICI Prudential Bharat Consumption Fund,Sectoral/ Thematic,ICICI Prudential Mutual Fund,NIFTY India Consumption TRI,10.52,11.77,8.52,-21.27,1.26,1.78,0.342,0.472,0.495,-0.291,2.525,0.704,7.29,53.78
+147662,ICICI Prudential Commodities Fund,Sectoral/ Thematic,ICICI Prudential Mutual Fund,NIFTY IT TRI,11.94,19.53,14.64,-21.7,2.01,3.06,0.278,0.371,0.55,-0.758,3.169,1.134,10.75,55.89
+120688,ICICI Prudential Exports & Services Fund,Sectoral/ Thematic,ICICI Prudential Mutual Fund,NIFTY Services Sector TRI,12.9,11.84,8.57,-14.84,1.21,1.75,0.541,0.748,0.869,-0.478,3.547,0.774,5.09,55.41
+120587,ICICI Prudential FMCG Fund,Sectoral/ Thematic,ICICI Prudential Mutual Fund,NIFTY 500 TRI,2.81,12.05,8.66,-30.73,1.22,1.73,-0.306,-0.426,0.091,-0.049,1.637,0.518,11.67,50.94

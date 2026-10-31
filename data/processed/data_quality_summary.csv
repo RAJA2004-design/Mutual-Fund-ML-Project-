@@ -1,0 +1,133 @@
+scheme_code,scheme_name,category,fund_house,expected_days,present_days,missing_days,completeness_pct,anomalies_detected
+118479,BANDHAN LARGE CAP FUND,Large Cap Fund,Bandhan Mutual Fund,1232,1232,0,100.0,0
+119250,DSP Large Cap Fund,Large Cap Fund,DSP Mutual Fund,1232,1232,0,100.0,0
+118617,Edelweiss Large Cap Fund,Large Cap Fund,Edelweiss Mutual Fund,1232,1232,0,100.0,0
+118531,Franklin India Large Cap Fund,Large Cap Fund,Franklin Templeton Mutual Fund,1232,1231,1,99.92,0
+119018,HDFC Large Cap Fund,Large Cap Fund,HDFC Mutual Fund,1232,1232,0,100.0,0
+120586,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund),Large Cap Fund,ICICI Prudential Mutual Fund,1232,1232,0,100.0,0
+120152,Kotak Large Cap Fund,Large Cap Fund,Kotak Mahindra Mutual Fund,1232,1232,0,100.0,0
+118632,Nippon India Large Cap Fund,Large Cap Fund,Nippon India Mutual Fund,1232,1232,0,100.0,0
+119598,SBI Large Cap Fund,Large Cap Fund,SBI Mutual Fund,1232,1232,0,100.0,0
+119160,Tata Large Cap Fund,Large Cap Fund,Tata Mutual Fund,1232,1232,0,100.0,0
+120656,UTI - Large Cap Fund,Large Cap Fund,UTI Mutual Fund,1232,1232,0,100.0,0
+120465,Axis Large Cap Fund,Large Cap Fund,Axis Mutual Fund,1232,1232,0,100.0,0
+118269,Canara Robeco Large Cap Fund,Large Cap Fund,Canara Robeco Mutual Fund,1232,1232,0,100.0,0
+120030,HSBC Large Cap Fund,Large Cap Fund,HSBC Mutual Fund,1232,1232,0,100.0,0
+118419,Bandhan Large & Mid Cap Fund,Large & Mid Cap Fund,Bandhan Mutual Fund,1232,1232,0,100.0,0
+148474,Baroda BNP Paribas Large and Mid Cap fund,Large & Mid Cap Fund,Baroda BNP Paribas Mutual Fund,1232,1232,0,100.0,0
+119218,DSP Large & Mid Cap Fund,Large & Mid Cap Fund,DSP Mutual Fund,1232,1232,0,100.0,0
+140175,Edelweiss Large & Mid Cap Fund,Large & Mid Cap Fund,Edelweiss Mutual Fund,1232,1232,0,100.0,0
+118510,Franklin India Large & Mid Cap Fund,Large & Mid Cap Fund,Franklin Templeton Mutual Fund,1232,1231,1,99.92,0
+120596,ICICI Prudential Large & Mid Cap Fund,Large & Mid Cap Fund,ICICI Prudential Mutual Fund,1232,1232,0,100.0,0
+147704,Motilal Oswal Large and Midcap Fund,Large & Mid Cap Fund,Motilal Oswal Mutual Fund,1232,1232,0,100.0,0
+118678,Nippon India Vision Large & Mid Cap Fund,Large & Mid Cap Fund,Nippon India Mutual Fund,1232,1232,0,100.0,0
+120826,Quant Large & Mid Cap Fund,Large & Mid Cap Fund,quant Mutual Fund,1232,1232,0,100.0,0
+119721,SBI LARGE & MIDCAP FUND,Large & Mid Cap Fund,SBI Mutual Fund,1232,1230,2,99.84,0
+119566,Sundaram Large and Midcap Fund,Large & Mid Cap Fund,Sundaram Mutual Fund,1232,1231,1,99.92,0
+119202,Tata Large & Mid Cap Fund,Large & Mid Cap Fund,Tata Mutual Fund,1232,1232,0,100.0,0
+120505,Axis Midcap Fund,Mid Cap Fund,Axis Mutual Fund,1232,1232,0,100.0,0
+119071,DSP Midcap Fund,Mid Cap Fund,DSP Mutual Fund,1232,1232,0,100.0,0
+140228,Edelweiss Mid Cap Fund,Mid Cap Fund,Edelweiss Mutual Fund,1232,1232,0,100.0,0
+118533,Franklin India Mid Cap Fund,Mid Cap Fund,Franklin Templeton Mutual Fund,1232,1232,0,100.0,0
+118989,HDFC Mid Cap Fund,Mid Cap Fund,HDFC Mutual Fund,1232,1232,0,100.0,0
+118668,Nippon India Growth Mid Cap Fund,Mid Cap Fund,Nippon India Mutual Fund,1232,1232,0,100.0,0
+120841,Quant Mid Cap Fund,Mid Cap Fund,quant Mutual Fund,1232,1232,0,100.0,0
+119716,SBI MIDCAP FUND,Mid Cap Fund,SBI Mutual Fund,1232,1232,0,100.0,0
+119581,Sundaram Mid Cap Fund,Mid Cap Fund,Sundaram Mutual Fund,1232,1231,1,99.92,0
+119178,Tata Mid Cap Fund,Mid Cap Fund,Tata Mutual Fund,1232,1232,0,100.0,0
+120726,UTI - Mid Cap Fund,Mid Cap Fund,UTI Mutual Fund,1232,1232,0,100.0,0
+120381,ICICI Prudential Mid Cap Fund,Mid Cap Fund,ICICI Prudential Mutual Fund,1232,1232,0,100.0,0
+120403,Invesco India Mid Cap Fund,Mid Cap Fund,Invesco Mutual Fund,1232,1232,0,100.0,0
+119775,Kotak Mid Cap Fund,Mid Cap Fund,Kotak Mahindra Mutual Fund,1232,1232,0,100.0,0
+147946,BANDHAN Small Cap Fund,Small Cap Fund,Bandhan Mutual Fund,1232,1232,0,100.0,0
+119212,DSP Small Cap Fund,Small Cap Fund,DSP Mutual Fund,1232,1232,0,100.0,0
+146196,Edelweiss Small Cap Fund,Small Cap Fund,Edelweiss Mutual Fund,1232,1232,0,100.0,0
+118525,Franklin India Small Cap Fund,Small Cap Fund,Franklin Templeton Mutual Fund,1232,1232,0,100.0,0
+130503,HDFC Small Cap Fund,Small Cap Fund,HDFC Mutual Fund,1232,1232,0,100.0,0
+120164,Kotak Small Cap Fund,Small Cap Fund,Kotak Mahindra Mutual Fund,1232,1232,0,100.0,0
+118778,Nippon India Small Cap Fund,Small Cap Fund,Nippon India Mutual Fund,1232,1232,0,100.0,0
+120828,Quant Small Cap Fund,Small Cap Fund,quant Mutual Fund,1232,1232,0,100.0,0
+125497,SBI SMALL CAP FUND,Small Cap Fund,SBI Mutual Fund,1232,1232,0,100.0,0
+119589,Sundaram Small Cap Fund,Small Cap Fund,Sundaram Mutual Fund,1232,1231,1,99.92,0
+119588,Sundaram Small Cap Fund,Small Cap Fund,Sundaram Mutual Fund,1232,1231,1,99.92,0
+145206,Tata Small Cap Fund,Small Cap Fund,Tata Mutual Fund,1232,1232,0,100.0,0
+125354,Axis Small Cap Fund,Small Cap Fund,Axis Mutual Fund,1232,1232,0,100.0,0
+146130,Canara Robeco Small Cap Fund,Small Cap Fund,Canara Robeco Mutual Fund,1232,1232,0,100.0,0
+118424,BANDHAN Flexi Cap Fund,Flexi Cap Fund,Bandhan Mutual Fund,1232,1232,0,100.0,0
+119076,DSP Flexi Cap Fund,Flexi Cap Fund,DSP Mutual Fund,1232,1232,0,100.0,0
+140353,Edelweiss Flexi Cap Fund,Flexi Cap Fund,Edelweiss Mutual Fund,1232,1232,0,100.0,0
+118535,Franklin India Flexi Cap Fund,Flexi Cap Fund,Franklin Templeton Mutual Fund,1232,1232,0,100.0,0
+118955,HDFC Flexi Cap Fund,Flexi Cap Fund,HDFC Mutual Fund,1232,1232,0,100.0,0
+129046,Motilal Oswal Flexi Cap Fund,Flexi Cap Fund,Motilal Oswal Mutual Fund,1232,1232,0,100.0,0
+122639,Parag Parikh Flexi Cap Fund,Flexi Cap Fund,PPFAS Mutual Fund,1232,1231,1,99.92,0
+120843,Quant Flexi Cap Fund,Flexi Cap Fund,quant Mutual Fund,1232,1232,0,100.0,0
+119718,SBI FLEXICAP FUND,Flexi Cap Fund,SBI Mutual Fund,1232,1230,2,99.84,0
+144546,Tata Flexi Cap Fund,Flexi Cap Fund,Tata Mutual Fund,1232,1232,0,100.0,0
+120662,UTI - Flexi Cap Fund.,Flexi Cap Fund,UTI Mutual Fund,1232,1232,0,100.0,0
+141925,Axis Flexi Cap Fund,Flexi Cap Fund,Axis Mutual Fund,1232,1232,0,100.0,0
+118275,Canara Robeco Flexi Cap Fund,Flexi Cap Fund,Canara Robeco Mutual Fund,1232,1232,0,100.0,0
+120046,HSBC Flexi Cap Fund,Flexi Cap Fund,HSBC Mutual Fund,1232,1232,0,100.0,0
+119354,Baroda BNP Paribas Multi Cap Fund,Multi Cap Fund,Baroda BNP Paribas Mutual Fund,1232,1232,0,100.0,0
+120823,Quant Multi Cap Fund,Multi Cap Fund,quant Mutual Fund,1232,1232,0,100.0,0
+120599,ICICI Prudential Multi Cap Fund,Multi Cap Fund,ICICI Prudential Mutual Fund,1232,1232,0,100.0,0
+120413,Invesco India Multi Cap Fund,Multi Cap Fund,Invesco Mutual Fund,1232,1232,0,100.0,0
+118650,Nippon India Multi Cap Fund,Multi Cap Fund,Nippon India Mutual Fund,1232,1232,0,100.0,0
+147183,ITI Multi Cap Fund,Multi Cap Fund,ITI Mutual Fund,1232,1231,1,99.92,0
+141226,Mahindra Manulife Multi Cap Fund,Multi Cap Fund,Mahindra Manulife Mutual Fund,1232,1232,0,100.0,0
+118421,Bandhan Focused Fund,Focused Fund,Bandhan Mutual Fund,1232,1232,0,100.0,0
+119096,DSP Focused Fund,Focused Fund,DSP Mutual Fund,1232,1232,0,100.0,0
+118564,Franklin India Focused Equity Fund,Focused Fund,Franklin Templeton Mutual Fund,1232,1232,0,100.0,0
+118950,HDFC Focused Fund,Focused Fund,HDFC Mutual Fund,1232,1232,0,100.0,0
+147473,Kotak Focused Fund,Focused Fund,Kotak Mahindra Mutual Fund,1232,1232,0,100.0,0
+122389,Motilal Oswal Focused Fund,Focused Fund,Motilal Oswal Mutual Fund,1232,1232,0,100.0,0
+118692,Nippon India Focused Fund,Focused Fund,Nippon India Mutual Fund,1232,1232,0,100.0,0
+120834,Quant Focused Fund,Focused Fund,quant Mutual Fund,1232,1232,0,100.0,0
+119727,SBI FOCUSED FUND,Focused Fund,SBI Mutual Fund,1232,1230,2,99.84,0
+147757,Tata Focused Fund,Focused Fund,Tata Mutual Fund,1232,1232,0,100.0,0
+120468,Axis Focused Fund,Focused Fund,Axis Mutual Fund,1232,1232,0,100.0,0
+148411,HSBC Focused Fund,Focused Fund,HSBC Mutual Fund,1232,1232,0,100.0,0
+118540,Franklin India ELSS Tax Saver Fund,ELSS,Franklin Templeton Mutual Fund,1232,1232,0,100.0,0
+119773,Kotak ELSS Tax Saver Fund,ELSS,Kotak Mahindra Mutual Fund,1232,1232,0,100.0,0
+133386,Motilal Oswal ELSS Tax Saver Fund,ELSS,Motilal Oswal Mutual Fund,1232,1232,0,100.0,0
+147481,Parag Parikh ELSS Tax Saver Fund,ELSS,PPFAS Mutual Fund,1232,1232,0,100.0,0
+120847,Quant ELSS Tax Saver Fund,ELSS,quant Mutual Fund,1232,1232,0,100.0,0
+119723,SBI ELSS Tax Saver Fund,ELSS,SBI Mutual Fund,1232,1232,0,100.0,0
+120715,UTI ELSS Tax Saver Fund,ELSS,UTI Mutual Fund,1232,1232,0,100.0,0
+120503,Axis ELSS- Tax Saver Fund,ELSS,Axis Mutual Fund,1232,1232,0,100.0,0
+118473,BANDHAN ELSS - Tax Saver Fund,ELSS,Bandhan Mutual Fund,1232,1232,0,100.0,0
+118285,Canara Robeco ELSS - Tax Saver Fund,ELSS,Canara Robeco Mutual Fund,1232,1232,0,100.0,0
+119242,DSP ELSS Tax Saver Fund,ELSS,DSP Mutual Fund,1232,1232,0,100.0,0
+118620,Edelweiss ELSS Tax Saver Fund,ELSS,Edelweiss Mutual Fund,1232,1232,0,100.0,0
+119060,HDFC ELSS - Tax Saver Fund,ELSS,HDFC Mutual Fund,1232,1232,0,100.0,0
+120592,ICICI Prudential ELSS - Tax Saver Fund,ELSS,ICICI Prudential Mutual Fund,1232,1232,0,100.0,0
+118481,Bandhan Value Fund,Value Fund,Bandhan Mutual Fund,1232,1232,0,100.0,0
+118494,Templeton India Value Fund,Value Fund,Franklin Templeton Mutual Fund,1232,1231,1,99.92,0
+118935,HDFC Value Fund,Value Fund,HDFC Mutual Fund,1232,1232,0,100.0,0
+120323,ICICI Prudential Value Fund (erstwhile Value Discovery Fund),Value Fund,ICICI Prudential Mutual Fund,1232,1231,1,99.92,0
+118784,Nippon India Value Fund,Value Fund,Nippon India Mutual Fund,1232,1232,0,100.0,0
+119549,Sundaram Value Fund,Value Fund,Sundaram Mutual Fund,1232,1231,1,99.92,0
+119231,Tata Value Fund,Value Fund,Tata Mutual Fund,1232,1232,0,100.0,0
+120751,UTI Value Fund,Value Fund,UTI Mutual Fund,1232,1232,0,100.0,0
+103490,Quantum Value Fund,Value Fund,Quantum Mutual Fund,1232,1232,0,100.0,0
+145473,Union Value Fund,Value Fund,Union Mutual Fund,1232,1231,1,99.92,0
+119769,Kotak Contra Fund,Contra Fund,Kotak Mahindra Mutual Fund,1232,1232,0,100.0,0
+119835,SBI CONTRA FUND,Contra Fund,SBI Mutual Fund,1232,1230,2,99.84,0
+120348,Invesco India Contra Fund,Contra Fund,Invesco Mutual Fund,1232,1232,0,100.0,0
+118527,Franklin India Dividend Yield Fund,Dividend Yield Fund,Franklin Templeton Mutual Fund,1232,1231,1,99.92,0
+129312,ICICI Prudential Dividend Yield Fund,Dividend Yield Fund,ICICI Prudential Mutual Fund,1232,1232,0,100.0,0
+120749,UTI - Dividend Yield Fund,Dividend Yield Fund,UTI Mutual Fund,1232,1232,0,100.0,0
+119507,Aditya Birla Sun Life Dividend Yield Fund,Dividend Yield Fund,Aditya Birla Sun Life Mutual Fund,1232,1231,1,99.92,0
+147928,Axis ESG Integration Strategy Fund,Sectoral/ Thematic,Axis Mutual Fund,1232,1231,1,99.92,0
+119333,Baroda BNP Paribas Banking and Financial Services Fund,Sectoral/ Thematic,Baroda BNP Paribas Mutual Fund,1232,1232,0,100.0,0
+142388,Edelweiss Recently Listed IPO Fund,Sectoral/ Thematic,Edelweiss Mutual Fund,1232,1232,0,100.0,0
+118559,Franklin Asian Equity Fund,Sectoral/ Thematic,Franklin Templeton Mutual Fund,1232,1231,1,99.92,0
+118557,Franklin Build India Fund,Sectoral/ Thematic,Franklin Templeton Mutual Fund,1232,1232,0,100.0,0
+118539,Franklin India Opportunities Fund,Sectoral/ Thematic,Franklin Templeton Mutual Fund,1232,1231,1,99.92,0
+118537,Franklin India Technology Fund,Sectoral/ Thematic,Franklin Templeton Mutual Fund,1232,1230,2,99.84,0
+141924,HDFC Housing Opportunities Fund,Sectoral/ Thematic,HDFC Mutual Fund,1232,1232,0,100.0,0
+118979,HDFC Infrastructure Fund,Sectoral/ Thematic,HDFC Mutual Fund,1232,1232,0,100.0,0
+120244,ICICI Prudential Banking & Financial Services Fund,Sectoral/ Thematic,ICICI Prudential Mutual Fund,1232,1232,0,100.0,0
+146951,ICICI Prudential Bharat Consumption Fund,Sectoral/ Thematic,ICICI Prudential Mutual Fund,1232,1232,0,100.0,0
+147662,ICICI Prudential Commodities Fund,Sectoral/ Thematic,ICICI Prudential Mutual Fund,1232,1232,0,100.0,0
+120688,ICICI Prudential Exports & Services Fund,Sectoral/ Thematic,ICICI Prudential Mutual Fund,1232,1231,1,99.92,0
+120587,ICICI Prudential FMCG Fund,Sectoral/ Thematic,ICICI Prudential Mutual Fund,1232,1231,1,99.92,0

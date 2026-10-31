@@ -1,0 +1,8 @@
+,cagr_5y_pct,annualized_volatility_pct,downside_deviation_rf_pct,max_drawdown_pct,daily_cvar_95_pct,sharpe_ratio,beta_nifty500
+cagr_5y_pct,1.0,0.436,0.435,0.052,0.484,0.981,0.417
+annualized_volatility_pct,0.436,1.0,0.992,-0.64,0.973,0.284,0.752
+downside_deviation_rf_pct,0.435,0.992,1.0,-0.63,0.991,0.283,0.778
+max_drawdown_pct,0.052,-0.64,-0.63,1.0,-0.61,0.182,-0.18
+daily_cvar_95_pct,0.484,0.973,0.991,-0.61,1.0,0.337,0.781
+sharpe_ratio,0.981,0.284,0.283,0.182,0.337,1.0,0.303
+beta_nifty500,0.417,0.752,0.778,-0.18,0.781,0.303,1.0

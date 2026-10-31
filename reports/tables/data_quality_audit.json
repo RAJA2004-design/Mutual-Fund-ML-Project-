@@ -1,0 +1,17 @@
+{
+  "total_schemes": 132,
+  "complete_schemes": 132,
+  "completeness_pct": 100.0,
+  "null_counts_per_feature": {
+    "cagr_5y_pct": 0,
+    "annualized_volatility_pct": 0,
+    "downside_deviation_rf_pct": 0,
+    "max_drawdown_pct": 0,
+    "daily_cvar_95_pct": 0,
+    "sharpe_ratio": 0,
+    "beta_nifty500": 0
+  },
+  "zero_negative_volatility": true,
+  "categories_covered": 12,
+  "fund_houses_covered": 25
+}

@@ -1,0 +1,13 @@
+scheme_code,scheme_name,category,fund_house,cagr_5y_pct,annualized_volatility_pct,max_drawdown_pct,sharpe_ratio,beta_nifty500,cluster,cluster_label
+118950,HDFC Focused Fund,Focused Fund,HDFC Mutual Fund,15.5,12.34,-13.98,0.73,0.804,0,Core Quality Compounders
+118955,HDFC Flexi Cap Fund,Flexi Cap Fund,HDFC Mutual Fund,14.46,12.81,-13.32,0.621,0.846,0,Core Quality Compounders
+129312,ICICI Prudential Dividend Yield Fund,Dividend Yield Fund,ICICI Prudential Mutual Fund,14.05,12.81,-15.88,0.59,0.849,0,Core Quality Compounders
+147946,BANDHAN Small Cap Fund,Small Cap Fund,Bandhan Mutual Fund,17.87,16.72,-24.34,0.68,1.0,1,Aggressive High-Growth
+118989,HDFC Mid Cap Fund,Mid Cap Fund,HDFC Mutual Fund,16.23,15.14,-16.96,0.643,0.962,1,Aggressive High-Growth
+120403,Invesco India Mid Cap Fund,Mid Cap Fund,Invesco Mutual Fund,16.57,16.28,-20.07,0.618,1.018,1,Aggressive High-Growth
+118537,Franklin India Technology Fund,Sectoral/ Thematic,Franklin Templeton Mutual Fund,7.2,15.62,-26.47,0.045,0.748,2,Defensive Capital Preservers
+118559,Franklin Asian Equity Fund,Sectoral/ Thematic,Franklin Templeton Mutual Fund,7.12,17.74,-32.93,0.035,0.671,2,Defensive Capital Preservers
+120465,Axis Large Cap Fund,Large Cap Fund,Axis Mutual Fund,4.47,13.23,-21.57,-0.153,0.874,2,Defensive Capital Preservers
+125354,Axis Small Cap Fund,Small Cap Fund,Axis Mutual Fund,14.1,14.29,-19.43,0.532,0.856,3,Moderate Balanced Growth (Cluster 3)
+120599,ICICI Prudential Multi Cap Fund,Multi Cap Fund,ICICI Prudential Mutual Fund,12.51,13.79,-17.25,0.436,0.914,3,Moderate Balanced Growth (Cluster 3)
+119769,Kotak Contra Fund,Contra Fund,Kotak Mahindra Mutual Fund,12.3,14.36,-18.95,0.404,0.973,3,Moderate Balanced Growth (Cluster 3)
